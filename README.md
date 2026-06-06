@@ -133,9 +133,9 @@ The `markitdown-ocr` plugin adds OCR support to PDF, DOCX, PPTX, and XLSX conver
 
 **Installation:**
 
-```bash
-pip install markitdown-ocr
-pip install openai  # or any OpenAI-compatible client
+```bashpip install markitdown-ocr
+pip install openai  # or any 
+OpenAI-compatible client
 ```
 
 **Usage:**
